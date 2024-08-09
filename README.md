@@ -1,0 +1,1 @@
+https://readme-typing-svg.demolab.com/demo/?font=times&size=30&duration=4000&pause=400&color=82E20E&background=02090100&center=true&lines=Hey+Folks!%F0%9F%91%8B;I'm+Md+Razi+Ahmed%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;I'm+a+Web+Developer..%F0%9F%92%BB;I'm+a+Java+Developer..%F0%9F%92%BB)

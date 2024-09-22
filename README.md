@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=times&size=35&duration=4000&pause=400&color=82E20E&background=02090100&center=true&width=435&lines=Hey+Folks!%F0%9F%91%8B;I'm+Md+Razi+Ahmed%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;I'm+a+Web+Developer..%F0%9F%92%BB;I'm+a+Java+Developer..%F0%9F%92%BB)](https://git.io/typing-svg)
 </h1>  
 
-<h3 align="center">A passionate frontend developer from India</h3><br> <br>
+<h3 align="center">A passionate Full-Stack Java Developer from India</h3><br> <br>
 
  <img align="right" alt="Coding"  width="500px" height="auto" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
 
